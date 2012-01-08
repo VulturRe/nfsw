@@ -1,4 +1,4 @@
-Koenigsegg CCX
+Koenigsegg CCX [added]
 Porsche Carrera GT
 Alfa Romeo Brera
 Plymouth Hemi Cuda
@@ -8,13 +8,14 @@ Aston Martin DB9
 Porsche 997GT3
 Porsche 997GT2
 Dodge Charger06
-Chevelle
-Nissan 2000gtr72
-Chevrolet Camaro
-Bentley Continental (maybe gt)
+Chevrolet Chevelle [added]
+Nissan 2000GTR72 C-10 [added]
+Chevrolet Camaro [added]
+Bentley Continental GT [added]
 BMW M6
 Reno Clio v6
-Jaguar XKR
+Jaguar XKR [added]
 Lotus Exige08
-Reno Megane
+Renault Megane
 Porsche Panamera10
+Pagani Zonda F [added]
