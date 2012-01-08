@@ -1,13 +1,13 @@
 0.1 
--init
+- init
 
 0.1.1
--Исправлена модель Jaguar XK на XKR
+- Исправлена модель Jaguar XK на XKR
 
 0.1.2
--Исправлено название Renault
--Добавлено в список: 	Pagani Zonda F
--Добавлены в игру: 
+- Исправлено название Renault
+- Добавлено в список: Pagani Zonda F
+- Добавлены в игру: 
  -Pagani Zonda F
  -Chevrolet Camaro
  -Chevrolet Chevelle
@@ -15,3 +15,8 @@
  -Jaguar XKR
  -Nissan 2000GTR C-10
  -Bentley Continental GT
+ 
+0.1.3 
+- Исправлен README
+0.1.4
+- Изменён README
