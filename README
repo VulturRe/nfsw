@@ -2,12 +2,11 @@
 - init
 
 0.1.1
-- Исправлена модель Jaguar XK на XKR
+- [fix] car list
 
 0.1.2
-- Исправлено название Renault
-- Добавлено в список: Pagani Zonda F
-- Добавлены в игру: 
+- [fix]&[add] car list
+- [add] to game: 
  -Pagani Zonda F
  -Chevrolet Camaro
  -Chevrolet Chevelle
@@ -17,6 +16,11 @@
  -Bentley Continental GT
  
 0.1.3 
-- Исправлен README
+- [fix] README
+
 0.1.4
-- Изменён README
+- [fix] README
+
+0.2
+- [add] car list
+- [add] to game

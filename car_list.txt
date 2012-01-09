@@ -3,19 +3,28 @@ Porsche Carrera GT
 Alfa Romeo Brera
 Plymouth Hemi Cuda
 Crysler 300C
-Cadilac CTSV
+Cadilac CTS-V
 Aston Martin DB9
 Porsche 997GT3
 Porsche 997GT2
 Dodge Charger06
+Ford Shelby GT500 Super Snake [added]
+Infinity G35 [new]
 Chevrolet Chevelle [added]
 Nissan 2000GTR72 C-10 [added]
 Chevrolet Camaro [added]
 Bentley Continental GT [added]
 BMW M6
+Mclaren F1 [new]
+Vauxhall Monaro [new]
+Toyota MR2 [new]
+Lexus IS300 [new]
+Bugatti Veyron [new]
+Mercedes-Benz SL65 [new]
+Mazda RX-8 [new]
 Reno Clio v6
 Jaguar XKR [added]
 Lotus Exige08
 Renault Megane
-Porsche Panamera10
+Porsche Panamera
 Pagani Zonda F [added]
